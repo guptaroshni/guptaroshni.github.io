@@ -573,6 +573,8 @@ img{
   transition: 1s;
   cursor: pointer;
   margin-bottom: 0.5rem;
+  width: 100%;
+  height: 300px;
 }
 .project-img img:hover {
   transform: scale(1.1);
