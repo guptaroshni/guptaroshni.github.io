@@ -120,7 +120,7 @@ img {
 }
 .section {
   padding-top: 3rem;
-  padding-bottom: -10rem;
+  padding-bottom: 2rem;
 }
 
 /*===== LAYOUT =====*/
@@ -513,7 +513,7 @@ color: gray;
 }
 /* ===== SKILLS =====*/
 .my_skills_section{
-  padding:10%;
+  padding:-8%;
   text-align:center
 }
 .my_skills_section .container h2{
@@ -527,7 +527,7 @@ color: gray;
 .my_skills_section .container .skills{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(170px,1fr));
-  grid-gap:20px;
+  grid-gap:60px;
   margin-top:10px
 }
 .my_skills_section .container .skills 
